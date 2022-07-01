@@ -1,0 +1,12 @@
+
+
+
+.header {
+    background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)),
+    
+}
+
+.row {
+    max-width: var(--conatiner-max-width);
+    margin: 0 auto;
+}
