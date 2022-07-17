@@ -563,6 +563,7 @@ body:not(.user-is-tabbing) a:focus {
     }
 }
 
+
 /* --------------------------------------- */
 /* ----- Contact ----- */
 /* --------------------------------------- */
@@ -571,9 +572,13 @@ body:not(.user-is-tabbing) a:focus {
     max-width: var(--container-medium-width);
 }
 
+
+
 /* --------------------------------------- */
 /* ----- Footer ----- */
 /* --------------------------------------- */
+
+
 
 .footer {
     text-align: center;
