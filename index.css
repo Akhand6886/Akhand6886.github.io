@@ -635,14 +635,15 @@ body:not(.user-is-tabbing) a:focus {
     font-size: 25px;
     margin-top: 10px;
   }
-  
-  /* Styles for reset button */
-  #reset {
-    margin-top: 20px;
-    background-color: #008cba;
-    cursor: pointer;
-    font-size: 18px;
-    padding: 8px 20px;
-    color: white;
-    border: 0;
-  }
+
+  body,
+.website-counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+body {
+  height: 100vh;
+}
